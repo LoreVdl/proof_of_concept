@@ -9,6 +9,8 @@
 |    31/12/2018     |                   Google research                |          1        |
 |    08/01/2019     |                   Start tutorial                 |          2        |
 |    09/01/2019     |            Onderzoek naar motion detecion        |          2        |
+|    09/01/2019     |                Verdergaan op tutorial            |          /        |
+
 
 
 

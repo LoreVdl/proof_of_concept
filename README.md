@@ -10,7 +10,7 @@
 |    08/01/2019     |                   Start tutorial                 |          2        |
 |    09/01/2019     |            Onderzoek naar motion detecion        |          2        |
 |    09/01/2019     |          Installeren van windows programma's     |         0.5       |
-|    09/01/2019     |                Verdergaan op tutorial            |          /        |
+|    09/01/2019     |                Verdergaan op tutorial            |          2        |
 
 
 

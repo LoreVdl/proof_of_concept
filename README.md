@@ -20,3 +20,4 @@
 |    12/01/2019     |            Research naar eigen applicatie        |          1        |
 |    12/01/2019     |                Bug fixes in tutorial             |          1        |
 |    12/01/2019     |      Verandering van python naar javascript      |         1.5       |
+|    12/01/2019     |         Verschillende applicaties testen         |          /        |

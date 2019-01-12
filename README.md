@@ -1,8 +1,10 @@
 # Proof of concepts 
 ## 1. Sources
+### 1.1 Speedcamera
 * http://morefunscience.blogspot.com/2012/05/calculating-speed-using-webcam.html
 * http://www.ugolog.com/pages/25-applications-to-turn-your-webcam-into-home-security-system
 
+### 1.2 Take screen captures
 * https://pypi.org/project/pyscreenshot/
 * https://gist.github.com/cbednarski/8450931
 

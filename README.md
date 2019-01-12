@@ -7,6 +7,7 @@
 ### 1.2 Motion detection
 * https://www.geeksforgeeks.org/webcam-motion-detector-python/
 * https://benjaminhorn.io/code/motion-detection-with-javascript-and-a-web-camera/
+* https://codersblock.com/blog/motion-detection-with-javascript/
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |

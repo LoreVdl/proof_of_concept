@@ -6,6 +6,7 @@
 
 ### 1.2 Motion detection
 * https://www.geeksforgeeks.org/webcam-motion-detector-python/
+* https://benjaminhorn.io/code/motion-detection-with-javascript-and-a-web-camera/
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
@@ -18,4 +19,4 @@
 |    12/01/2019     |                Verdergaan op tutorial            |          2        |
 |    12/01/2019     |            Research naar eigen applicatie        |          1        |
 |    12/01/2019     |                Bug fixes in tutorial             |          1        |
-|    12/01/2019     |                   Applicatie maken               |          /        |
+|    12/01/2019     |      Verandering van python naar javascript      |         1.5       |

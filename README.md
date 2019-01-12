@@ -4,10 +4,9 @@
 * http://morefunscience.blogspot.com/2012/05/calculating-speed-using-webcam.html
 * http://www.ugolog.com/pages/25-applications-to-turn-your-webcam-into-home-security-system
 
-### 1.2 Take screen captures
-* https://pypi.org/project/pyscreenshot/
-* https://gist.github.com/cbednarski/8450931
-* https://gist.github.com/dbuscombe-usgs/6958890
+### 1.2 Motion detection
+* https://www.geeksforgeeks.org/webcam-motion-detector-python/
+* http://www.robindavid.fr/opencv-tutorial/motion-detection-with-opencv.html
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |

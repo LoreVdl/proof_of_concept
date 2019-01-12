@@ -66,9 +66,9 @@ if float(FileCount)/float(3)-int(FileCount/3) <> 0:
 
 # Asigns variables a,b,and c to designate the 1st, 2nd and 3rd photo of each set.
 for x in range(1,(FileCount/3+1)):
-    a = x*3-3
+    a = x*3-1
     b = x*3-2
-    c = x*3-1
+    c = x*3-3
     Start = int(fileMS[b])+int(fileS[b])*1000+int(fileM[b])*60000+int(fileH[b])*3600000
     End = int(fileMS[c])+int(fileS[c])*1000+int(fileM[c])*60000+int(fileH[c])*3600000
 
@@ -76,7 +76,6 @@ for x in range(1,(FileCount/3+1)):
     if Time <0:
         # Adds a day (in MS) if the end time falls in the next day.
         Time = End + (3600000*24) - Start
-
     # Converts to greyscale and crops to remove timestamp. Timestamp must not be visible.
     im1 = (Image.open(filelist[a]).convert("L")).crop(box)
     im2 = (Image.open(filelist[b]).convert("L")).crop(box)

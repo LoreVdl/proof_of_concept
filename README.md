@@ -7,6 +7,7 @@
 ### 1.2 Take screen captures
 * https://pypi.org/project/pyscreenshot/
 * https://gist.github.com/cbednarski/8450931
+* https://gist.github.com/dbuscombe-usgs/6958890
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |

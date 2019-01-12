@@ -11,10 +11,5 @@
 |    09/01/2019     |            Onderzoek naar motion detecion        |          2        |
 |    09/01/2019     |          Installeren van windows programma's     |         0.5       |
 |    09/01/2019     |                Verdergaan op tutorial            |          2        |
-|    12/01/2019     |                Verdergaan op tutorial            |          /        |
-
-
-
-
-
-
+|    12/01/2019     |                Verdergaan op tutorial            |          2        |
+|    12/01/2019     |            Research naar eigen applicatie        |          /        |

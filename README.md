@@ -3,6 +3,9 @@
 * http://morefunscience.blogspot.com/2012/05/calculating-speed-using-webcam.html
 * http://www.ugolog.com/pages/25-applications-to-turn-your-webcam-into-home-security-system
 
+* https://pypi.org/project/pyscreenshot/
+* https://gist.github.com/cbednarski/8450931
+
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
 |-------------------|:------------------------------------------------:|------------------:|

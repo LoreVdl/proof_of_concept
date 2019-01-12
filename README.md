@@ -6,7 +6,6 @@
 
 ### 1.2 Motion detection
 * https://www.geeksforgeeks.org/webcam-motion-detector-python/
-* http://www.robindavid.fr/opencv-tutorial/motion-detection-with-opencv.html
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |

@@ -19,4 +19,5 @@
 |    09/01/2019     |                Verdergaan op tutorial            |          2        |
 |    12/01/2019     |                Verdergaan op tutorial            |          2        |
 |    12/01/2019     |            Research naar eigen applicatie        |          1        |
-|    12/01/2019     |               Bug fixes in tutorial              |          1        |
+|    12/01/2019     |                Bug fixes in tutorial             |          1        |
+|    12/01/2019     |                   Applicatie maken               |          /        |

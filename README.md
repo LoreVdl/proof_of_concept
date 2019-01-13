@@ -11,6 +11,9 @@
 * https://www.kirupa.com/html5/accessing_your_webcam_in_html5.htm
 * https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia
 
+### 1.3 Screen capture
+* https://pixlcore.com/read/WebcamJS
+
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
 |-------------------|:------------------------------------------------:|------------------:|

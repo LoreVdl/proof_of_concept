@@ -13,6 +13,7 @@
 
 ### 1.3 Screen capture
 * https://pixlcore.com/read/WebcamJS
+* https://makitweb.com/how-to-capture-picture-from-webcam-with-webcam-js/
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |

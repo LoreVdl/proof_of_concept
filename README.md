@@ -37,4 +37,5 @@
 |    14/01/2019     |               Take 3 screenshots                 |          1        |
 |    14/01/2019     |     Combine screenshots and motion detection     |          3        |
 |    14/01/2019     |      Research naar het bereken van snelheid      |          1        |
-|    14/01/2019     |             Testen van screenshots               |          /        |
+|    14/01/2019     |             Testen van screenshots               |          1        |
+|    14/01/2019     |             research video capture               |          /        |

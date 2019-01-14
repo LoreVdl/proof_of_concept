@@ -34,4 +34,4 @@
 |    13/01/2019     |         Motion detection met Javascript          |          4        |
 |    14/01/2019     |                 Take screenshot                  |          2        |
 |    14/01/2019     |                 Save screenshot                  |          1        |
-|    14/01/2019     |               Take 3 screenshots                 |          /        |
+|    14/01/2019     |               Take 3 screenshots                 |          1        |

@@ -11,6 +11,10 @@
 * https://www.kirupa.com/html5/accessing_your_webcam_in_html5.htm
 * https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia
 
+### 1.3 Screen capture
+* https://pixlcore.com/read/WebcamJS
+* https://makitweb.com/how-to-capture-picture-from-webcam-with-webcam-js/
+
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
 |-------------------|:------------------------------------------------:|------------------:|
@@ -25,4 +29,6 @@
 |    12/01/2019     |      Verandering van python naar javascript      |         1.5       |
 |    12/01/2019     |         Verschillende applicaties testen         |         0.5       |
 |    12/01/2019     |          Webcam gebruiken in Javascript          |          1        |
-|    13/01/2019     |         Motion detection met Javascript          |          /        |
+|    13/01/2019     |         Motion detection met Javascript          |          4        |
+|    14/01/2019     |                 Take screenshot                  |          2        |
+|    14/01/2019     |                 Save screenshot                  |          /        |

@@ -19,6 +19,7 @@
 
 ### 1.4 Calculate speed on video
 * https://sites.google.com/site/delseaphysics1/Home/basic-skills/motion-terminology/calculating-speed-from-video
+* https://codepen.io/Yuschick/post/html5-currenttime-and-frame-numbers
 
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |

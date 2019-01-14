@@ -1,12 +1,15 @@
-var video = document.querySelector("#videoElement");
+Webcam.attach("#my_camera");
 
-// Only if getUserMedia is supported
-if (navigator.mediaDevices.getUserMedia)
-{
-  navigator.mediaDevices.getUserMedia({video: true}).then (function(stream) {
-    video.srcObject = stream;
+function take_snapshot() {
+  Webcam.snap(function(data_uri) {
+    document.getElementById('my_result').innerHTML = '<img id="imageprev" src="'+data_uri+'"/>';
   })
-  .catch(function (error) {
-    console.log("something went wrong");
+}
+
+function save_snap() {
+  var base64image = document.getElementById("imageprev").src;
+
+  Webcam.upload(base64image, 'upload.php', function(code, text) {
+    console.log('Save successfully');
   });
 }

@@ -30,4 +30,5 @@
 |    12/01/2019     |         Verschillende applicaties testen         |         0.5       |
 |    12/01/2019     |          Webcam gebruiken in Javascript          |          1        |
 |    13/01/2019     |         Motion detection met Javascript          |          4        |
-|    14/01/2019     |     Take screenshot when motion is deteceted     |          /        |
+|    14/01/2019     |                 Take screenshot                  |          2        |
+|    14/01/2019     |                 Save screenshot                  |          /        |

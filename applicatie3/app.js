@@ -2,6 +2,10 @@ Webcam.attach("#my_camera");
 
 var i = 1;
 
+function reset() {
+  i = 1;
+}
+
 function take_snapshot() {
     if (i <= 3) {
       Webcam.snap(function(data_uri) {
@@ -12,7 +16,7 @@ function take_snapshot() {
         });
       })
       i++;
-      sleep(1);
+      sleep(10);
     }
 }
 
@@ -31,7 +35,6 @@ function initError() {
 function capture(payload) {
 	score.textContent = payload.score;
 
-
   if (payload.score > 0) {
     take_snapshot();
   }
@@ -45,8 +48,6 @@ function sleep(milliseconds) {
     }
   }
 }
-
-
 
 
 DiffCamEngine.init({

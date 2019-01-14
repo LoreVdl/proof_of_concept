@@ -17,6 +17,9 @@
 * https://pixlcore.com/read/WebcamJS
 * http://theonlytutorials.com/capture-web-camera-image-php-jquery/
 
+### 1.4 Calculate speed on video
+* https://sites.google.com/site/delseaphysics1/Home/basic-skills/motion-terminology/calculating-speed-from-video
+
 ## 2. Logboek
 |       Datum       |                    Activiteit                    |        Uren       |
 |-------------------|:------------------------------------------------:|------------------:|

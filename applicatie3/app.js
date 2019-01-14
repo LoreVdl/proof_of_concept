@@ -1,15 +1,24 @@
 Webcam.attach("#my_camera");
 
+var i = 1;
+
 function take_snapshot() {
-  Webcam.snap(function(data_uri) {
-    document.getElementById('my_result').innerHTML = '<img id="imageprev" src="'+data_uri+'"/>';
-  })
-}
+  setTimeout(function() {
+    Webcam.snap(function(data_uri) {
+      var base64image = data_uri;
 
-function save_snap() {
-  var base64image = document.getElementById("imageprev").src;
+      Webcam.upload(base64image, 'upload.php', function(code, text) {
+        console.log('Save successfully');
+      });
+    })
+    i++;
 
-  Webcam.upload(base64image, 'upload.php', function(code, text) {
-    console.log('Save successfully');
-  });
+    if (i <= 3) {
+      take_snapshot();
+    }
+  }, 500);
+
+  if (i == 4) {
+    i = 1; 
+  }
 }

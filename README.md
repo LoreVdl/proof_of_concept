@@ -43,4 +43,4 @@
 |    14/01/2019     |      Research naar het bereken van snelheid      |          1        |
 |    14/01/2019     |             Testen van screenshots               |          1        |
 |    14/01/2019     |             research video capture               |          2        |
-|    14/01/2019     |        Hoofd breken over wiskundige formule      |          /        |
+|    14/01/2019     |        Hoofd breken over wiskundige formule      |          3        |

@@ -63,10 +63,16 @@ function countSeconds() {
 }
 
 function calculateSpeed() {
-	end = end / 1000;
-	end = end / 3600;
-	speed = km/end;
-	console.log(speed);
+	if (end != 0) {
+		console.log(end);
+		end = end / 1000;
+		end = end / 3600;
+		speed = km/end;
+		speed = Math.round(speed * 100) / 100
+	}
+	console.log(speed + " km/uur");
+	end = 0;
+	speed = 0;
 }
 
 DiffCamEngine.init({
